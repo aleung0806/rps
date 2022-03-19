@@ -1,0 +1,19 @@
+img {
+    width:200px;
+    height: 200px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.col-sm {
+    width:250px;
+    height: 250px;
+    text-align: center;
+}
+
+#presults, #cresults, #final {
+    visibility: hidden;
+}
+
